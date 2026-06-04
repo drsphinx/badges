@@ -19,7 +19,7 @@
       "name": "BluRay",
       "isEnabled": true,
       "imageURL": "https://raw.githubusercontent.com/drsphinx/badges/main/badges/bray.png",
-      "pattern": "(?i)^(?=.*(?:bluray|blu-ray))(?!.*remux)",
+      "pattern": "(?i)^(?=.*(?:bluray|blu-ray|bdrip|bd-rip|brrip|br-rip))(?!.*remux)",
       "textColor": "#00000000",
       "tagColor": "#00000000",
       "borderColor": "#00000000",
