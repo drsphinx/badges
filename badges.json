@@ -83,7 +83,7 @@
       "groupId": "g-rng",
       "name": "Dolby Atmos+Vision",
       "isEnabled": true,
-      "imageURL": "https://raw.githubusercontent.com/drsphinx/badges/main/badges/dadv.png",
+      "imageURL": "https://raw.githubusercontent.com/drsphinx/badges/main/badges/d-av.png",
       "pattern": "(?i)^(?=.*\\b(?:dolby\\s*atmos|atmos)\\b)(?=.*\\b(?:dolby\\s*vision|dovi|dv)\\b)",
       "textColor": "#00000000",
       "tagColor": "#00000000",
