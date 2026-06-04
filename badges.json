@@ -66,6 +66,32 @@
       "type": "filter"
     },
     {
+      "id": "hd",
+      "groupId": "g-res",
+      "name": "720p",
+      "isEnabled": true,
+      "imageURL": "https://raw.githubusercontent.com/drsphinx/badges/main/badges/720p.png",
+      "pattern": "(?i)\\b720[pi]?\\b",
+      "textColor": "#00000000",
+      "tagColor": "#00000000",
+      "borderColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "type": "filter"
+    },
+    {
+      "id": "sd",
+      "groupId": "g-res",
+      "name": "480p",
+      "isEnabled": true,
+      "imageURL": "https://raw.githubusercontent.com/drsphinx/badges/main/badges/480p.png",
+      "pattern": "(?i)\\b480[pi]?\\b",
+      "textColor": "#00000000",
+      "tagColor": "#00000000",
+      "borderColor": "#00000000",
+      "tagStyle": "filled and bordered",
+      "type": "filter"
+    },
+    {
       "id": "sdx",
       "groupId": "g-rng",
       "name": "SeaDex",
